@@ -1,0 +1,23 @@
+/* .title-1{
+    float: right;
+}
+.title-2{
+    float:left;
+} */
+
+/* .wrapper{
+    color: green;
+    background-color: red;
+}
+.clear{ 
+    clear: both;
+} */
+.text{
+    float:right;
+    width: 600px;
+}
+.image{
+    float: left;
+    margin-right: 40px;
+    margin-bottom: 30px;
+}
